@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/stats-base-dists-gamma-logpdf": "^0.0.x",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/bench": "^0.0.x",
