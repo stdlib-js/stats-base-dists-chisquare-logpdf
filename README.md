@@ -65,13 +65,13 @@ where `k` is the degrees of freedom and `Γ` denotes the [gamma function][gamma-
 ## Usage
 
 ```javascript
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-logpdf@deno/mod.js';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-logpdf@v0.2.3-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-logpdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-logpdf@v0.2.3-deno/mod.js';
 ```
 
 #### logpdf( x, k )
@@ -143,7 +143,7 @@ y = myLogPDF( 1.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-logpdf@deno/mod.js';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-logpdf@v0.2.3-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
