@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-04)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Vishal Gaikwad
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
