@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-04)
+## Unreleased (2026-03-07)
+
+<section class="features">
+
+### Features
+
+-   [`d11f1f1`](https://github.com/stdlib-js/stdlib/commit/d11f1f1157bf77fbfdc00663f410f41a1ba18a0c) - add C implementation for `stats/base/dists/chisquare/logpdf` [(#10778)](https://github.com/stdlib-js/stdlib/pull/10778)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3503](https://github.com/stdlib-js/stdlib/issues/3503)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`d11f1f1`](https://github.com/stdlib-js/stdlib/commit/d11f1f1157bf77fbfdc00663f410f41a1ba18a0c) - **feat:** add C implementation for `stats/base/dists/chisquare/logpdf` [(#10778)](https://github.com/stdlib-js/stdlib/pull/10778) _(by Siddhartha Mondal, Philipp Burckhardt, stdlib-bot)_
 -   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
 
 </details>
@@ -24,8 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
+-   Siddhartha Mondal
 -   Vishal Gaikwad
 
 </section>
