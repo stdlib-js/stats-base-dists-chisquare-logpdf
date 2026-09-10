@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-09-10)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`71c6a07`](https://github.com/stdlib-js/stdlib/commit/71c6a076990c22b6fc3ff70706ea8a93f688f57a) - **test:** migrate `stats/base/dists/chisquare/logpdf` to ULP-based assertions [(#15121)](https://github.com/stdlib-js/stdlib/pull/15121) _(by Athan Reines)_
 -   [`c07de96`](https://github.com/stdlib-js/stdlib/commit/c07de963b0116d680060bb12d271fd8bf0bb26c1) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`800e5c6`](https://github.com/stdlib-js/stdlib/commit/800e5c63152409e524ba972c331f3656103adebd) - **bench:** minor clean-up _(by Philipp Burckhardt)_
 -   [`d11f1f1`](https://github.com/stdlib-js/stdlib/commit/d11f1f1157bf77fbfdc00663f410f41a1ba18a0c) - **feat:** add C implementation for `stats/base/dists/chisquare/logpdf` [(#10778)](https://github.com/stdlib-js/stdlib/pull/10778) _(by Siddhartha Mondal, Philipp Burckhardt, stdlib-bot)_
@@ -49,8 +50,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Siddhartha Mondal
 -   Vishal Gaikwad
